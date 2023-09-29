@@ -24,6 +24,7 @@ p, h1, h2 {
 
 body {
   background-color: var(--Cream);
+  height: calc(100vh - 1px);
 }
 
 main {
@@ -151,6 +152,7 @@ button:hover {
 
   .r-column {
     padding: 2em;
+    max-width: 50%;
   }
 
   button {
