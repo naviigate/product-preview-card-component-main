@@ -86,6 +86,7 @@ h2 {
 
 .price{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 2em;
   padding-bottom: 1em;
